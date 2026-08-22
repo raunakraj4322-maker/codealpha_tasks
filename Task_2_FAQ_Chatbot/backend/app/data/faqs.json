@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "What courses are available on the platform?",
+    "answer": "We offer a wide range of courses including Artificial Intelligence, Machine Learning, Deep Learning, Python Programming, Web Development, Data Science, Cloud Computing, and Cybersecurity. Each course is designed to provide hands-on practical experience.",
+    "category": "Courses"
+  },
+  {
+    "id": 2,
+    "question": "How do I enroll in a course?",
+    "answer": "To enroll, first create an account on our platform, browse the available courses, select the one you're interested in, and click the 'Enroll Now' button. You'll be guided through the payment process, and you'll gain immediate access to the course materials.",
+    "category": "Enrollment"
+  },
+  {
+    "id": 3,
+    "question": "What is the pricing structure for courses?",
+    "answer": "Our courses are priced individually, ranging from $49 to $299 depending on the complexity and duration. We also offer bundle packages for multiple courses at discounted rates. All prices are one-time payments with no hidden fees.",
+    "category": "Pricing"
+  },
+  {
+    "id": 4,
+    "question": "Do you offer certificates upon completion?",
+    "answer": "Yes, upon successful completion of any course, you'll receive a verified digital certificate that you can share on LinkedIn, include in your resume, or download as a PDF. Our certificates are recognized by many leading tech companies.",
+    "category": "Certificates"
+  },
+  {
+    "id": 5,
+    "question": "How long does it take to complete a course?",
+    "answer": "Course duration varies from 10 to 40 hours of content, which most students complete within 2-8 weeks depending on their pace. You have lifetime access to the course materials, so you can learn at your own speed.",
+    "category": "Courses"
+  },
+  {
+    "id": 6,
+    "question": "What programming languages do you teach?",
+    "answer": "Our primary focus is on Python, which is the most popular language for AI and ML. We also offer courses in JavaScript, Java, C++, and SQL. Each programming course includes comprehensive projects and real-world applications.",
+    "category": "Courses"
+  },
+  {
+    "id": 7,
+    "question": "Are there any prerequisites for AI/ML courses?",
+    "answer": "For beginner AI/ML courses, basic Python knowledge is recommended but not required. Our intermediate and advanced courses require familiarity with programming fundamentals, statistics, and linear algebra. We provide prerequisite checklists for each course.",
+    "category": "Courses"
+  },
+  {
+    "id": 8,
+    "question": "Do you offer web development courses?",
+    "answer": "Yes, we have comprehensive web development courses covering HTML, CSS, JavaScript, React, Node.js, and full-stack development. These courses include building real-world projects from e-commerce sites to portfolio websites.",
+    "category": "Courses"
+  },
+  {
+    "id": 9,
+    "question": "How can I get technical support?",
+    "answer": "Technical support is available 24/7 through our help center. You can submit a support ticket, join our community Discord server, or schedule a one-on-one session with an instructor. Most issues are resolved within 24 hours.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 10,
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page, enter your registered email address, and we'll send you a password reset link. The link expires after 24 hours for security. If you don't receive the email, check your spam folder.",
+    "category": "Account"
+  },
+  {
+    "id": 11,
+    "question": "What is your refund policy?",
+    "answer": "We offer a 30-day money-back guarantee on all courses. If you're not satisfied with the course content within the first 30 days, contact our support team for a full refund. Refunds are processed within 5-7 business days.",
+    "category": "Pricing"
+  },
+  {
+    "id": 12,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers. For enterprise customers, we also offer invoice-based payments with NET-30 terms.",
+    "category": "Pricing"
+  },
+  {
+    "id": 13,
+    "question": "How do I access my student dashboard?",
+    "answer": "After logging in, click on 'My Dashboard' in the top navigation bar. Your dashboard shows enrolled courses, progress tracking, upcoming deadlines, certificates earned, and recommended courses based on your learning history.",
+    "category": "Account"
+  },
+  {
+    "id": 14,
+    "question": "Are there assignments in the courses?",
+    "answer": "Yes, each course includes multiple assignments, quizzes, and practical projects. Assignments are designed to reinforce learning and are automatically graded where possible. Instructors provide detailed feedback on subjective assignments.",
+    "category": "Assignments"
+  },
+  {
+    "id": 15,
+    "question": "What kind of projects will I work on?",
+    "answer": "Projects range from building ML models for image recognition to creating full-stack web applications. You'll work on real-world scenarios that mirror industry challenges, building a portfolio that showcases your skills to employers.",
+    "category": "Projects"
+  },
+  {
+    "id": 16,
+    "question": "Do you help with internship preparation?",
+    "answer": "Yes, we offer specialized internship preparation tracks that include resume building, interview preparation, coding challenges, and mock interviews. We also partner with companies that recruit directly from our student pool.",
+    "category": "Career"
+  },
+  {
+    "id": 17,
+    "question": "How can I contact customer service?",
+    "answer": "You can reach our customer service team via email at support@ailearning.com, through our live chat feature on the website, or by calling our toll-free number 1-800-AI-LEARN. Response time is typically under 2 hours during business hours.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 18,
+    "question": "Can I download course videos for offline viewing?",
+    "answer": "Yes, our mobile app allows you to download course videos for offline viewing. This feature is available on iOS and Android devices. Desktop users can also download videos through our web platform with a premium subscription.",
+    "category": "Courses"
+  },
+  {
+    "id": 19,
+    "question": "Do you offer corporate training programs?",
+    "answer": "Yes, we provide customized corporate training solutions for teams of 5 or more. Our enterprise plans include dedicated account managers, custom course paths, team progress tracking, and volume discounts. Contact our sales team for a quote.",
+    "category": "Pricing"
+  },
+  {
+    "id": 20,
+    "question": "How often are course contents updated?",
+    "answer": "We update our course content quarterly to ensure it reflects the latest industry trends and technologies. Major framework updates are addressed within 2 weeks of release. All updates are included at no extra cost.",
+    "category": "Courses"
+  },
+  {
+    "id": 21,
+    "question": "Can I switch between courses?",
+    "answer": "Yes, you can enroll in multiple courses and switch between them at any time. Your progress is saved individually for each course. There's no limit on how many courses you can take simultaneously.",
+    "category": "Enrollment"
+  },
+  {
+    "id": 22,
+    "question": "Are there any free courses available?",
+    "answer": "We offer a selection of free introductory courses that cover basics like Python fundamentals, AI concepts, and web development basics. These free courses are a great way to get started before committing to paid courses.",
+    "category": "Pricing"
+  },
+  {
+    "id": 23,
+    "question": "How do I access course certificates?",
+    "answer": "Certificates are automatically generated upon course completion. You can find them in your dashboard under the 'Certificates' section. From there, you can download, share on LinkedIn, or verify the certificate using its unique ID.",
+    "category": "Certificates"
+  },
+  {
+    "id": 24,
+    "question": "What if I fall behind in a course?",
+    "answer": "There's no time limit to complete our courses. You can learn at your own pace and take breaks as needed. Your progress is saved, and you can resume whenever you're ready. We also offer study plan recommendations to help you get back on track.",
+    "category": "Courses"
+  },
+  {
+    "id": 25,
+    "question": "Do you provide one-on-one mentoring?",
+    "answer": "Yes, we offer one-on-one mentoring sessions with industry experts for an additional fee. These sessions can be used for code reviews, career guidance, or deep dives into specific topics. Sessions are available in 30-minute and 60-minute increments.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 26,
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to Settings > Account > Delete Account. You'll need to confirm your decision and password. Account deletion is permanent and removes all your data, including course progress and certificates. Download any certificates before deleting.",
+    "category": "Account"
+  },
+  {
+    "id": 27,
+    "question": "Can I get a trial before purchasing?",
+    "answer": "All our paid courses offer a 7-day free trial with full access to course materials. You can explore the content, complete assignments, and experience the platform before committing. No payment is required to start the trial.",
+    "category": "Pricing"
+  },
+  {
+    "id": 28,
+    "question": "What hardware/software requirements are there?",
+    "answer": "For most courses, a computer with 8GB RAM and a modern web browser is sufficient. AI/ML courses recommend 16GB RAM and optionally a GPU. We provide cloud-based environments for heavy computational tasks, so you don't need powerful local hardware.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 29,
+    "question": "Do you offer job placement assistance?",
+    "answer": "While we don't guarantee job placement, we provide career services including resume reviews, interview preparation, and access to our job board featuring partner companies. Our career counselors can help you navigate the job market effectively.",
+    "category": "Career"
+  },
+  {
+    "id": 30,
+    "question": "How are the courses structured?",
+    "answer": "Courses are divided into modules, each containing video lessons, reading materials, quizzes, and hands-on projects. You'll follow a recommended learning path but can skip ahead if you're already familiar with certain topics.",
+    "category": "Courses"
+  },
+  {
+    "id": 31,
+    "question": "Can I share my account with others?",
+    "answer": "Account sharing is not permitted as it violates our terms of service. Each account is for individual use only. We offer family and corporate plans for multiple users at discounted rates.",
+    "category": "Account"
+  },
+  {
+    "id": 32,
+    "question": "What languages are the courses available in?",
+    "answer": "Currently, all courses are available in English with subtitles in 10 languages including Spanish, French, German, Chinese, Japanese, and more. We're actively working on adding full course translations in major languages.",
+    "category": "Courses"
+  },
+  {
+    "id": 33,
+    "question": "How do I report a technical issue?",
+    "answer": "Report technical issues through the 'Report Issue' button found on every course page or contact support directly. Please include details like your browser, device, and steps to reproduce the issue. Our technical team investigates all reports.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 34,
+    "question": "Are there live sessions or webinars?",
+    "answer": "Yes, we host weekly live Q&A sessions with instructors, monthly webinars on industry trends, and exclusive workshops for premium members. All live sessions are recorded and available for replay in your course dashboard.",
+    "category": "Courses"
+  },
+  {
+    "id": 35,
+    "question": "Can I get a discount for multiple courses?",
+    "answer": "Yes, we offer bundle discounts when purchasing 3 or more courses together. Additionally, we have seasonal sales and promotional discounts throughout the year. Check our pricing page for current bundle offers.",
+    "category": "Pricing"
+  },
+  {
+    "id": 36,
+    "question": "How do I verify my certificate to employers?",
+    "answer": "Each certificate has a unique verification ID and QR code. Employers can verify authenticity by entering the ID on our verification page or scanning the QR code. This prevents certificate fraud and adds credibility to your credentials.",
+    "category": "Certificates"
+  },
+  {
+    "id": 37,
+    "question": "What is your community like?",
+    "answer": "Our community includes over 100,000 learners worldwide. You can connect through forums, Discord servers, and local meetups. Many students form study groups, collaborate on projects, and share job opportunities within the community.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 38,
+    "question": "Do you offer scholarships?",
+    "answer": "Yes, we have a scholarship program for deserving students who demonstrate financial need. Scholarships cover up to 100% of course costs. Applications are reviewed monthly, and recipients are selected based on merit and financial circumstance.",
+    "category": "Pricing"
+  },
+  {
+    "id": 39,
+    "question": "How long do I have access to a course?",
+    "answer": "You have lifetime access to all purchased courses, including any future updates. There's no expiration date, so you can revisit materials whenever you need a refresher or want to learn new features added to the course.",
+    "category": "Courses"
+  },
+  {
+    "id": 40,
+    "question": "Can I cancel my enrollment?",
+    "answer": "You can cancel your enrollment within 30 days for a full refund. After 30 days, you can still cancel but won't be eligible for a refund. However, you'll retain access to any content you've already paid for.",
+    "category": "Enrollment"
+  },
+  {
+    "id": 41,
+    "question": "What makes your platform different from others?",
+    "answer": "Our platform focuses on practical, industry-relevant skills with real-world projects. We offer personalized learning paths, expert instructors, and a supportive community. Our courses are continuously updated based on feedback from hiring managers at top tech companies.",
+    "category": "Courses"
+  },
+  {
+    "id": 42,
+    "question": "Do you provide career counseling?",
+    "answer": "Yes, our career counselors can help you identify the right courses for your career goals, review your resume, prepare for interviews, and negotiate job offers. Career counseling sessions are available as add-ons to any course purchase.",
+    "category": "Career"
+  },
+  {
+    "id": 43,
+    "question": "How secure is my payment information?",
+    "answer": "We use industry-standard SSL encryption and comply with PCI DSS standards for payment processing. We never store your complete credit card information on our servers. All payments are processed through trusted payment gateways.",
+    "category": "Pricing"
+  },
+  {
+    "id": 44,
+    "question": "Can I switch to a different course after enrolling?",
+    "answer": "Yes, within the first 7 days of enrollment, you can request a one-time course switch at no additional cost. After 7 days, you would need to purchase the new course separately, but you'll keep access to your original course.",
+    "category": "Enrollment"
+  },
+  {
+    "id": 45,
+    "question": "What if a course is too difficult for me?",
+    "answer": "If you find a course too challenging, we recommend starting with our prerequisite courses. You can also reach out to instructors for clarification, join study groups, or schedule tutoring sessions. Our learning paths are designed to build skills progressively.",
+    "category": "Courses"
+  },
+  {
+    "id": 46,
+    "question": "Do you offer mobile apps?",
+    "answer": "Yes, our mobile apps are available for both iOS and Android. The apps allow you to watch lessons, complete quizzes, participate in discussions, and download content for offline learning. Your progress syncs seamlessly across devices.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 47,
+    "question": "How do I provide feedback on a course?",
+    "answer": "You can provide feedback through the course rating system after completion, or submit detailed feedback through our contact form. We regularly review feedback and use it to improve course content and teaching methods.",
+    "category": "Technical Support"
+  },
+  {
+    "id": 48,
+    "question": "Are there group discounts available?",
+    "answer": "Yes, we offer significant discounts for groups of 5 or more learners. Group pricing starts at 20% off for 5-9 learners and goes up to 40% off for 20+ learners. Contact our sales team for custom group pricing.",
+    "category": "Pricing"
+  },
+  {
+    "id": 49,
+    "question": "What kind of support do you offer during projects?",
+    "answer": "During projects, you have access to project-specific forums where you can ask questions, share code, and get help from instructors and peers. For premium courses, you also get direct code review from instructors.",
+    "category": "Projects"
+  },
+  {
+    "id": 50,
+    "question": "Can I use course projects in my portfolio?",
+    "answer": "Absolutely! All projects you complete are yours to use in your professional portfolio. We encourage students to showcase their work on GitHub, personal websites, and during job interviews. Many of our students have landed jobs using their project portfolios.",
+    "category": "Projects"
+  },
+  {
+    "id": 51,
+    "question": "How do I stay updated with new courses?",
+    "answer": "Subscribe to our newsletter to receive updates on new courses, special offers, and learning tips. You can also follow us on social media or check our 'New Courses' section on the website regularly.",
+    "category": "Courses"
+  },
+  {
+    "id": 52,
+    "question": "What is your policy on academic integrity?",
+    "answer": "We maintain strict academic integrity standards. Plagiarism, cheating on quizzes, or sharing assignment solutions is prohibited and can result in account termination. We encourage collaboration but expect independent work on assessments.",
+    "category": "Account"
+  },
+  {
+    "id": 53,
+    "question": "Do you offer gift cards?",
+    "answer": "Yes, you can purchase gift cards for any amount starting at $25. Gift cards can be used toward any course on our platform and make excellent gifts for students or professionals looking to upskill. Gift cards don't expire.",
+    "category": "Pricing"
+  },
+  {
+    "id": 54,
+    "question": "How do I know if a course is right for me?",
+    "answer": "Each course page includes a detailed syllabus, prerequisites, learning outcomes, and student reviews. We also offer free previews of course content. You can take our course recommendation quiz to get personalized suggestions based on your goals.",
+    "category": "Courses"
+  },
+  {
+    "id": 55,
+    "question": "What happens if a course instructor leaves?",
+    "answer": "If an instructor leaves, we ensure a smooth transition by having a replacement instructor familiar with the course material. All course content remains accessible, and we maintain the same quality standards regardless of instructor changes.",
+    "category": "Courses"
+  }
+]
