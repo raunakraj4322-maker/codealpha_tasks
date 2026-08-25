@@ -1,0 +1,26 @@
+# Object Detection and Tracking Application
+# CodeAlpha AI Internship Task 4
+# Python Dependencies
+
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Object detection (YOLO via Ultralytics)
+ultralytics>=8.0.0
+
+# PyTorch (required by Ultralytics)
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# Optional: Install PyTorch separately based on your system
+# CPU-only: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# CUDA 11.8: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+# CUDA 12.1: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+# Logging and utilities
+python-dotenv>=1.0.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
